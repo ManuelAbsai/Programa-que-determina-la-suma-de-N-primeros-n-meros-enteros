@@ -1,4 +1,4 @@
- /* Determinar la suma de los N primeros números enteros de acuerdo a la siguiente fórmula:
+/* Determinar la suma de los N primeros números enteros de acuerdo a la siguiente fórmula:
         suma= N*(N+1)2   */
 import java.util.*;
 public class Ejercicio6 {
